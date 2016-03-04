@@ -1,0 +1,28 @@
+name: Tekelala
+favicon: null
+layout_spectrum: 0.8782486009877175
+typography_spectrum: 0.15910253580659628
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2623650429304689
+  lightness: 0.14168231980875134
+  saturation: 0.9526220576371998
+  rhythmicContrast: 0.2914308973122388
+purpose: []
