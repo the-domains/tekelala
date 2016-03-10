@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tekelala]]></title>
+        <description><![CDATA[Tekelala]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 15:24:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La disrupción digital como nuevo motor de crecimiento de las empresas]]></title>
+            <description><![CDATA[<article><h1>La disrupción digital como nuevo motor de crecimiento de las empresas</h1><p>La disrupción digital como herramienta para crecer y adelantarse a la competencia. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cb28fcd256a641e5b27f19888dbe5e1c24acee4.jpg"></article>]]></description>
+            <link>undefinedla-disrupcion-digital-como-nuevo-motor-de-crecimiento-de-las/index.html</link>
+            <guid isPermaLink="false">df153d42-4394-48ce-ad78-0bb22a2cae56</guid>
+            <pubDate>Thu, 10 Mar 2016 15:24:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
