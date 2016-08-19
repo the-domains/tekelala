@@ -16,20 +16,16 @@ color:
   brandStrength: 0.2623650429304689
   lightness: 0.1416823198087513
   brandColors:
-    - '#534E4A'
-    - '#121701'
-    - '#ED8666'
-    - '#8D7670'
-    - '#CEBDB3'
+    - '#C20710'
   rhythmicContrast: 0.2914308973122388
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 favicon: null
 name: Tekelala
 opengraph:
